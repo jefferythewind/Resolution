@@ -1,0 +1,2 @@
+# Resolution
+Addiction Management
